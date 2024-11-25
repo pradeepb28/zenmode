@@ -3,6 +3,14 @@
     <channel>
         <title>Zen Mode</title>
         <item>
+            <title>3.6.4</title>
+            <pubDate>Fri, 27 Sep 2024 23:56:15 +0530</pubDate>
+            <sparkle:version>3.6.4</sparkle:version>
+            <sparkle:shortVersionString>3.6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/zen-mode-a3f5b.appspot.com/o/Zen%20mode.zip?alt=media&amp;token=2647f661-dccd-4988-b9d0-04135a9049bd" length="2317246" type="application/octet-stream" sparkle:edSignature="cmcEFrJNJTBIu+hMvhwiwSbwf+kFrXy6VaYhDrWsoabNhjncbF0k3hk4wqYONra9Nb1qo3eROVylGK2D1STxDQ=="/>
+        </item>
+        <item>
             <title>3.6.3</title>
             <pubDate>Fri, 27 Sep 2024 23:56:42 +0530</pubDate>
             <sparkle:version>3.6.3</sparkle:version>
